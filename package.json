@@ -1,0 +1,26 @@
+{
+  "name": "parser.js",
+  "version": "1.0.0",
+  "description": "A mathematical expression parser",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/jsenor/parser.js.git"
+  },
+  "keywords": [
+    "parser",
+    "math",
+    "expression",
+    "math",
+    "expression",
+    "shunting",
+    "yard",
+    "post-fix",
+    "infix"
+  ],
+  "author": "jSenor",
+  "license": "ISC"
+}
